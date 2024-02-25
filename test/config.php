@@ -34,7 +34,7 @@
  define('BEZ_NO_DB_SELECT','Данная БД отсутствует на сервере');
 
  //Адрес хоста сайта
- define('BEZ_HOST','http://'. $_SERVER['HTTP_HOST'] .'/');
+ define('BEZ_HOST','http://'. $_SERVER['HTTP_HOST'] .'/test/');
  
  //Адрес почты от кого отправляем
  define('BEZ_MAIL_AUTOR','Регистрация на https://websb.site <no-reply@websb.site>');
